@@ -1,0 +1,21 @@
+body{
+	background-size:cover;
+}
+
+.speed_div{
+	float:left;
+}
+
+.volume_div{
+	float:right;
+}
+
+.speed_div img{
+	width:200px;
+	border-radius:100px;
+}
+
+.volume_div img{
+	width:200px;
+	border-radius:100px;
+}
